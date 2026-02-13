@@ -270,7 +270,7 @@ Fighting boilerplate is a long, uphill battle because of First Amendment protect
 
 But we can use FRANK-HAVRE to make them accountable.
 
-By unmasking the Disclosure of Vacuum and the Shadow Signatories, we turn the ocean of OSINT against the Lair. The data is public. The filings are voluntary. The signatures are on the record. The Power of Attorney exhibits are attached to the Form 4s that nobody reads — but that FRANK-HAVRE reads in seconds.
+The data is public. The filings are voluntary. The signatures are on the record. The Power of Attorney exhibits are attached to the Form 4s that nobody reads — but that FRANK-HAVRE reads in seconds.
 
 The world doesn't need another Nathan Anderson flying drones over truck lots. The fraud signatures are already in the machine — filed quarterly, signed by attorneys-in-fact, indexed by EDGAR, and formatted for an RSS feed by the companies themselves.
 
