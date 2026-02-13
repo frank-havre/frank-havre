@@ -284,7 +284,7 @@ It is, in every sense of the word, a wholly remarkable approach.
 
 I consider my work here done and complete. I am not a software engineer. I am an OSINT researcher who read the attachments that nobody reads, and wrote 40 lines of Python to automate what I found. The concept is proven. The manifesto is written. The code runs (actually not, it's simply algorithm).
 
-I do not plan to add anything further to this repository, maybe one or two edits to this REAMDME.
+I do not plan to add anything further to this repository, maybe one or two edits to this README.
 
 But I encourage any OSINT researcher in the world to fork it and continue on their own. The applications are not limited to securities. The FRANK-HAVRE module — extracting nominee signatories from public regulatory filings and cross-referencing them against disclosed principals — can be adapted to any open regulatory register on earth. Corporate registries. Land title offices. Patent filings. Charity commissions. Political donation records. Anywhere a signature exists in a public database, the Creature might be hiding behind it.
 
